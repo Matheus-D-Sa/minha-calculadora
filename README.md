@@ -18,7 +18,7 @@
   
   - **Passo 7:** Para acessar a calculadora digite seu nome
 
-  - **Passo 8:** Escolha a operação que deseja realizar
+  - **Passo 8:** Escolha entre as operações mostradadas que deseja realizar
 
   - **Passo 9:** Em sequência, informe o primeiro número e depois o segundo número para calcular
 
